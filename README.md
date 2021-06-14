@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ![alt text]( https://drive.google.com/uc?export=view&id=1rSKnkKxRjM8upshERTX3PmeN_cHjRkpj)
 
 
