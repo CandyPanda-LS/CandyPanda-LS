@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://drive.google.com/file/d/11EfS-o8YhMCFLZ6e2Gdcw4yiCtoxZSKG/view?usp=sharing)
+![alt text](https://scontent.fcmb1-1.fna.fbcdn.net/v/t1.6435-9/103423245_3116800718380447_3819175571561843616_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=e3f864&_nc_ohc=EMCybQnIU4kAX_9zhYI&_nc_ht=scontent.fcmb1-1.fna&oh=fb734240792adfb787da8624d8e8bf4b&oe=60CB7D7B)
 
 
 <!--
