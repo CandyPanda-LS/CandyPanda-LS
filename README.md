@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-https://drive.google.com/file/d/11EfS-o8YhMCFLZ6e2Gdcw4yiCtoxZSKG/view?usp=sharing
+![alt text](https://drive.google.com/file/d/11EfS-o8YhMCFLZ6e2Gdcw4yiCtoxZSKG/view?usp=sharing)
+
 
 <!--
 **CandyPanda-LS/CandyPanda-LS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
