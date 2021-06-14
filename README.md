@@ -9,13 +9,13 @@ Hello Github! I'm Lasal Hettiarachchi. A passionate software developer from Sril
 
 Contact me on my social media handles,
 
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/AvbRusiru
-[youtube]: https://www.youtube.com/rusiruabhisheak
+[facebook]: https://www.youtube.com/rusiruabhisheak
 [instagram]: https://www.instagram.com/ravb.abhisheak/
 [linkedin]: https://www.linkedin.com/in/rusiru-abhisheak-8a4b19196/
  
